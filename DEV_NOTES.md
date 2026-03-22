@@ -19,3 +19,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-23
 - Cleaned up old debug logs
 - Updated license year
+
+## 2026-03-23
+- Addressed feedback from self code review
+- Added type hints to helper functions
+- Tidied up project structure
