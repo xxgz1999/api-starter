@@ -15,3 +15,7 @@ Personal development log — notes, findings, and ongoing work.
 - Drafted initial implementation plan for v2
 - Refactored module structure for clarity
 - Added .editorconfig for consistent formatting
+
+## 2026-03-23
+- Cleaned up old debug logs
+- Updated license year
