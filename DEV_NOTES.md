@@ -10,3 +10,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-23
 - Added basic usage examples to README
 - Updated CI cache strategy
+
+## 2026-03-23
+- Drafted initial implementation plan for v2
+- Refactored module structure for clarity
+- Added .editorconfig for consistent formatting
